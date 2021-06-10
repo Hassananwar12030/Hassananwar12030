@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Hassan Anwar
+- 👋 Hi, I’m Hassan Anwar, 6th semester student, studying computer science from IBA, Karachi.
 - 👀 I’m interested in software Development and machine learning
-- 🌱 I’m currently learning app development
+- 🌱 I’m currently learning app development (
 
 
 <!---
