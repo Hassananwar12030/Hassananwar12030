@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Hassan Anwar, 7th semester student, studying computer science from IBA, Karachi.
+- 👋 Hi, I’m Hassan Anwar, graduted from IBA, Karachi.
 - 👀 I’m interested in software Development and machine learning
 - 🌱 I’m currently learning app development 
 
